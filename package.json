@@ -54,6 +54,9 @@
       "parser": "babel-eslint"
     }
   },
+  "engines": {
+    "node": "^14.16.0"
+  },
   "browserslist": [
     "> 1%",
     "last 2 versions"
