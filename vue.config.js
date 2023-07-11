@@ -14,7 +14,7 @@ module.exports = {
     ?'/admin/'
     :'/',
     devServer: {
-      host: '127.0.0.1',
+      // host: '127.0.0.1',
       disableHostCheck: true,
       proxy: {
         '/api': {
